@@ -1,7 +1,7 @@
 # Laptop Price Prediction Using Python and Machine Learning
 
 ## Problem Statement
-### Predicting the price of laptops based on their specifications is an essential application of machine learning in the retail and e-commerce industry. This project leverages Python and machine learning techniques to build a model capable of predicting laptop prices based on features such as brand, processor, RAM, storage, and display size. The project covers the complete workflow, including data extraction, preprocessing, feature engineering, and machine learning.
+ Predicting the price of laptops based on their specifications is an essential application of machine learning in the retail and e-commerce industry. This project leverages Python and machine learning techniques to build a model capable of predicting laptop prices based on features such as brand, processor, RAM, storage, and display size. The project covers the complete workflow, including data extraction, preprocessing, feature engineering, and machine learning.
 
 1. Data Extraction
 The first step involves collecting a dataset of laptops with their specifications and corresponding prices. Data can be extracted from e-commerce websites like Amazon or Flipkart using web scraping libraries such as BeautifulSoup or Selenium. Alternatively, publicly available datasets can be used, often in .csv format. The dataset is loaded into Python using pandas for further analysis.
